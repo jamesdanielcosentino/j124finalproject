@@ -5,7 +5,7 @@ Jimmy Cosentino
 
 ## Sourcing and Methods
 
-I found this data at [the City of Berkeley Open Data Portal](data.cityofberkeley.info). It is "used to calculate special assessments approved by Berkeley voters in ballot measures," according to the website. Special assessments are fees in addition to taxes, used for one-time or infrequent service, such as repairs or small projects. This data should have no agenda, as it is collected straight from property records, but stretching of the truth or illegal annexing could slightly alter values.
+This is my [dataset](https://data.cityofberkeley.info/City-Government/Taxable-Square-Footage/9a47-nj4i/about_data), which I found at the City of Berkeley Open Data Portal (I can't get this link to work for some reason). It is "used to calculate special assessments approved by Berkeley voters in ballot measures," according to the website. Special assessments are fees in addition to taxes, used for one-time or infrequent service, such as repairs or small projects. This data should have no agenda, as it is collected straight from property records, but stretching of the truth or illegal annexing by property owners could slightly alter values.
 
 Here is the [spreadsheet](https://docs.google.com/spreadsheets/d/1o0cjbpv51kzhLz2Pttyn6CsguHwWu1IEPOZ0k0QxZG4/edit?usp=sharing) I have been using in analyzing my data. I've created several pivot tables to investigate chunks of the data, like specific addresses and percent taxable square footage, or just the street with square footage, etc. I also did some filtering to come up with the properties with the highest taxable square footage, which I researched and added to the sheet.
 
