@@ -3,7 +3,7 @@
 # These 10 Places Have the Highest Taxable square footage in Berkeley
 Jimmy Cosentino
 
-## Sourcing and Methods
+## Introduction, Sourcing, and Methods
 
 This is my [dataset](https://data.cityofberkeley.info/City-Government/Taxable-Square-Footage/9a47-nj4i/about_data), which I found at the City of Berkeley Open Data Portal (I can't get this link to work for some reason). It is "used to calculate special assessments approved by Berkeley voters in ballot measures," according to the website. Special assessments are fees in addition to taxes, used for one-time or infrequent service, such as repairs or small projects. This data should have no agenda, as it is collected straight from property records, but stretching of the truth or illegal annexing by property owners could slightly alter values.
 
