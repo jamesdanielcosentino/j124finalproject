@@ -9,7 +9,7 @@ This is my [dataset](https://data.cityofberkeley.info/City-Government/Taxable-Sq
 
 Here is the [spreadsheet](https://docs.google.com/spreadsheets/d/1o0cjbpv51kzhLz2Pttyn6CsguHwWu1IEPOZ0k0QxZG4/edit?usp=sharing) I have been using in analyzing my data. I've created several pivot tables to investigate chunks of the data, like specific addresses and percent taxable square footage, or just the street with square footage, etc. I also did some filtering to come up with the properties with the highest taxable square footage, which I researched and added to the sheet.
 
-## Interesting findings
+## Interesting findings and *the* 10 places
 
 I examined the data set in a few ways and yielded different results for each. First, I calculated the percent of square footage a property has which is taxable. Surprisingly, 8.5% of these properties have taxable square footage greater than actual square footage. 
 ![Pie Chart of Taxable versus Actual Square Footage](pie1.png)
